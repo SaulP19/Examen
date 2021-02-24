@@ -1,0 +1,14 @@
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\bin\Release\netcoreapp2.1\PruebaExamen.deps.json
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\bin\Release\netcoreapp2.1\PruebaExamen.runtimeconfig.json
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\bin\Release\netcoreapp2.1\PruebaExamen.runtimeconfig.dev.json
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\bin\Release\netcoreapp2.1\PruebaExamen.dll
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\bin\Release\netcoreapp2.1\PruebaExamen.pdb
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.csprojAssemblyReference.cache
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.csproj.CoreCompileInputs.cache
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.RazorAssemblyInfo.cache
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.RazorAssemblyInfo.cs
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.AssemblyInfoInputs.cache
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.AssemblyInfo.cs
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.RazorTargetAssemblyInfo.cache
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.dll
+C:\Users\Efren\Desktop\Saul\PruebaExamen\PruebaExamen\obj\Release\netcoreapp2.1\PruebaExamen.pdb

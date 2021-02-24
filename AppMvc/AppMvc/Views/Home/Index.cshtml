@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="row">
+   <p>@Html.ActionLink("Nuevo usuario", "Create")</p>
+    <div class="col-md-12">
+        <h2>Datos</h2>
+
+        <table class="table">
+            <tr>
+                <th>
+                    SKU
+                </th>
+                <th>
+                    MODELO
+                </th>
+                <th>
+                    FECHA
+                </th>
+                <th>
+                    FERT
+                </th>
+                <th>
+                    NUMEROS
+                </th>
+                <th>
+                    TIPO
+                </th>
+                <th></th>
+            </tr>
+
+           
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                       @item.SKU
+                    </td>
+                    <td>
+                        @item.MODELO
+                    </td>
+                    <td>
+                        @item.FECHA
+                    </td>
+                    <td>
+                        @item.FERT
+                    </td>
+                    <td>
+                        @item.NUMEROS
+                    </td>
+                    <td>
+                        @item.TIPO
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {  id=item.SKU }) |
+                        @Html.ActionLink("Delete", "Delete", new { id=item.SKU })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+
+
+
+    </div>
+ 
+</div>
